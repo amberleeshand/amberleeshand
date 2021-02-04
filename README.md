@@ -1,4 +1,4 @@
-#### Hey, I'm Amber! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### <h2>Hey, I'm Amber!</h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Header](https://pbs.twimg.com/profile_banners/1343192878969978880/1612432478/1500x500 "Header")](https://twitter.com/amberleetech)
 
 <!--
